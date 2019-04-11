@@ -1,0 +1,34 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.robert"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "SpringAngular",
+        "packageName": "com.robert",
+        "packageFolder": "com/robert",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mssql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OTA3N2NmZTQ4ZTRhMzYwYWQ0ZWNkMTRmOGVmNmZiZWY5ODU2MGVlYmVkYWZlMGNiZmYxYzIxYjc5NDk1MDc3NDUwMWVmOTRjZWRmM2VhYzkyNjYyOTg5MDUxZmZhNzIxOTJjNjI1Yzg4MGUzMzA5YzExZmE0ZGUxMDUwNGFjODE=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
